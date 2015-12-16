@@ -1,9 +1,9 @@
 # Versioning Your Dissertation with Git
 
-Session 1. [Digital Humanities (DH) and/in the Dissertation](https://apps.mla.org/program_details?prog_id=1&year=2016)
-Thursday, 7 January, 8:30–11:30 a.m., 17B, ACC
-Program arranged by the MLA Office of Scholarly Communication
-*Preregistration required* 
+Session 1. [Digital Humanities (DH) and/in the Dissertation](https://apps.mla.org/program_details?prog_id=1&year=2016)   
+Thursday, 7 January, 8:30–11:30 a.m., 17B, ACC   
+Program arranged by the MLA Office of Scholarly Communication   
+*Preregistration required*    
 
 ## Workshop Description 
 
