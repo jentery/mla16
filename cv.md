@@ -27,3 +27,54 @@ In digital humanities research, we see some steps toward new vision infrastructu
 ## Acknowledgments
 I would like to thank Dorothy Kim and Jesse Stommel for inviting me to participate in this panel. 
 
+## Works Cited 
+
+## References
+
+Agre, Philip E. "Toward a Critical Technical Practice. Lessons Learned in Trying to Reform AI." *Social Science, Technical Systems, and Cooperative Work: Beyond the Great Divide*. Eds. Geoffrey Bowker, et al. New York: Erlbaum, 1997.  
+
+Aneesh, A. *Virtual Migration: The Programming of Globalization*. Durham, NC: Duke University Press, 2006. 
+
+Arnall, Timo. *Robot Readable World*. 2012. https://vimeo.com/36239715.
+
+Backes, Martin. "New Artwork: Pixelhead." *Martin Backes - Official Website*. 2010. http://www.martinbackes.com/new-artwork-pixelhead.
+
+Bagnall, Kate and Tim Sherratt. "Invisible Australians: Living under the White Australia Policy." 2011. http://invisibleaustralians.org/.
+
+Berger, John. *Ways of Seeing*. New York: Penguin Books Limited, 1972.
+
+Berry, David. "What Is the 'New Aesthetic'?" *Stunlaw*. 2012. http://stunlaw.blogspot.ca/2012/04/what-is-new-aesthetic.html.
+
+Boden, Margaret. *Mind As Machine: A History of Cognitive Science*. New York, Oxford University Press, 2006.
+
+Bridle, James. "The New Aesthetic: Waving at the Machines." *Booktwo*. 2011. http://booktwo.org/notebook/waving-at-machines/.
+
+Browne, Simone. "Digital Epidermalization: Race, Identity and Biometrics." *Critical Sociology* 36.1 (2010): 131–50. 
+
+Calderara, Simone, Andrea Prati, and Rita Cucchiara. "Video Surveillance and Multimedia Forensics: An Application to Trajectory Analysis." *Proceedings of the First ACM Workshop on Multimedia in Forensics*, MiFor ’09. New York (2009): 13–18. 
+
+Chun, Wendy Hui Kyong. *Programmed Visions: Software and Memory*. Cambridge, MA: MIT Press, 2011.
+
+Columbia University. "Pubfig: Public Figures Face Database." 2010. http://www.cs.columbia.edu/CAVE/databases/pubfig/.
+
+Crevier, Daniel. *AI: The Tumultuous History of the Search for Artificial Intelligence*. New York, Basic Books, 1993.
+
+Galloway, Alexander. *Protocol: How Control Exists after Decentralization*. Cambridge, MA: MIT Press, 2001. 
+
+Haraway, Donna. *The Haraway Reader*. 1st ed. New York: Routledge, 2003
+
+Harvey, Adam. "Stealth Wear." *AH Projects*. 2013. http://ahprojects.com/projects/stealth-wear/.
+
+Jones, Matt. "Sensor-Vernacular." *BERG*. 2011. http://berglondon.com/blog/2011/05/13/sensor-vernacular/.
+ 
+Liu, Alan. "Where Is Cultural Criticism in the Digital Humanities?" *Debates in the Digital Humanities*. Ed. Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012. 
+
+McPherson, Tara. "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation." *Debates in the Digital Humanities*. Ed. Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012. 
+
+Minsky, Marvin. "A Framework for Representing Knowledge." 1974. https://web.media.mit.edu/~minsky/papers/Frames/frames.html.
+
+Papert, Seymour. "The Summer Vision Project." July 1966. http://dspace.mit.edu/handle/1721.1/6125.
+
+Szeliski, Richard. *Computer Vision: Algorithms and Applications*. Springer Science & Business Media, 2010. 
+
+Viola, Paul, and Michael Jones. "Robust Real-Time Object Detection." *International Journal of Computer Vision* 57.2 (2004): 137-154.
