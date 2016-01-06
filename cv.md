@@ -29,8 +29,6 @@ I would like to thank Dorothy Kim and Jesse Stommel for inviting me to participa
 
 ## Works Cited 
 
-## References
-
 Agre, Philip E. "Toward a Critical Technical Practice. Lessons Learned in Trying to Reform AI." *Social Science, Technical Systems, and Cooperative Work: Beyond the Great Divide*. Eds. Geoffrey Bowker, et al. New York: Erlbaum, 1997.  
 
 Aneesh, A. *Virtual Migration: The Programming of Globalization*. Durham, NC: Duke University Press, 2006. 
