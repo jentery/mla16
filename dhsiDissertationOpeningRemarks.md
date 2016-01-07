@@ -6,9 +6,9 @@ If we approach them rhetorically, digital dissertations are frequently immersed 
 * How is a digital dissertation circulated? For instance, how do dissertation committees received it, and in what formats? While formats may seem quite boring, see Jonathan Sterne's notion of [format studies](https://www.dukeupress.edu/mp3). 
 * How is a digital dissertation read and commented on? In this instance, I'm not even thinking about matters of assessment. I'm referring to the basics of how and where people comment on dissertations, including drafts.
 
-With such questoins in mind, I wonder if we might consider today's workshops a collection of small steps, which gather steam and significance over time. 
+With such questions in mind, I wonder if we might consider today's workshops a collection of small steps, which gather steam and significance over time. 
 
-After all, it may not be the gran ideas of the dissertation, but rather its everydayness, that's most difficult to change.  
+After all, it may not be the grand ideas of the dissertation, but rather its everydayness, that's most difficult to change.  
 
 ## Acknowledgments 
 
