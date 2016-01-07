@@ -1,4 +1,4 @@
-# Opening Remarks for DHSI at MLA 2016: DH and/in the Dissertation
+# DH and/in the Dissertation (Opening Remarks for DHSI at MLA 2016)
 
 If we approach them rhetorically, digital dissertations are frequently immersed in grand narratives of massive change. And the word, "digital," may not do us any favors. After all, it is easily intertwined with the logic of positivism, whereby changes in digital technologies are equated with social or cultural progress. In fact, what might matter most for digital dissertations is quite everyday. For instance, consider the following questions: 
 
